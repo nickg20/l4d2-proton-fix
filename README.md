@@ -1,4 +1,4 @@
-# L4D2 Proton VAC Fix (Minimal)
+# L4D2 Proton VAC Fix
 
 This is a workaround for an issue that prevents the Windows version of
 Left 4 Dead 2 running under Proton from joining VAC-secure dedicated servers.

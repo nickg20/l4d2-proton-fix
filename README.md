@@ -15,8 +15,8 @@ pass through unchanged.
 
 ## Build
 
-Make, GCC, and 32-bit glibc development support are required: `make` and
-`gcc-multilib` on Debian; `make`, `gcc`, and `lib32-gcc-libs` on Arch Linux.
+Make, GCC, and 32-bit glibc development support are required: `build-essential` and
+`gcc-multilib` on Debian; `base-devel` and `lib32-gcc-libs` on Arch Linux.
 
 ```sh
 make

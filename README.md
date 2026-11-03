@@ -17,7 +17,7 @@ pass through unchanged.
 
 Make, GCC, and 32-bit glibc development support are required: `build-essential` and
 `gcc-multilib` on Debian; `base-devel` and `lib32-gcc-libs` on Arch Linux; 
-`@c-development`, `glibc-devel.i686`, and `libatomic.686` on Fedora.
+`@c-development`, `glibc-devel.i686`, and `libatomic.i686` on Fedora.
 
 ```sh
 make
